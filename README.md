@@ -1,0 +1,2 @@
+# A-Secure-Property-Based-Token-Attestation-Framework-Using-Homomorphic-Encryption-for-MCS.
+This project introduces PTA-HE, a secure Property-Based Token Attestation framework that integrates Homomorphic Encryption to protect sensitive data during processing in mobile cloud environments. It enables computations on encrypted data while ensuring only authorized tokens are validated through Trusted Third Parties (TTPs)..
